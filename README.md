@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debashree06&label=Profile%20views&color=0e75b6&style=flat" alt="debashree06" /> </p>
 
-- 🌱 I’m currently learning **MERN Full Stack certification.**
+- 🌱 I’m currently working as a **MERN Full Stack Developer.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Debashree06](https://github.com/Debashree06)
 
